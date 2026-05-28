@@ -1,4 +1,4 @@
-name: Stork GUARANTEED NOTE STORK DMS 5Y 100% 07/2030
+name: Stork GUARANTEED NOTE STORK DMS 5Y 100% 10/2030
 on:
   schedule:
     - cron: "0 8 01 * *"
